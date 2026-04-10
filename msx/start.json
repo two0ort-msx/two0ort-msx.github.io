@@ -1,7 +1,7 @@
 {
     "name": "2crt012's MSX",
     "version": "1.0.0",
-    "parameter": "menu:https://2crt012-msx.github.io/msx/menu.json",
+    "parameter": "menu:https://two0ort-msx.github.io/msx/menu.json",
     "launcher": {
         "color": "msx-black-soft"
     }
