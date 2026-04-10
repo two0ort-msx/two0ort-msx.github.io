@@ -8,7 +8,7 @@
         {
             "icon": "msx-red:play-circle",
             "label": "YouTube",
-            "action": "link:https://www.youtube.com/tv"
+            "action": "link:https://www.youtube.com"
         },
         {
             "icon": "settings",
