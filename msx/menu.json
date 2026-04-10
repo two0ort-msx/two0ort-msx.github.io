@@ -2,7 +2,7 @@
     "headline": "Media Station X",
     "menu": [
         {
-            "type": "seperator",
+            "type": "separator",
             "label": "Video"
         },
         {
